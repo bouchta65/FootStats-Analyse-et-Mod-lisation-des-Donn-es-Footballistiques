@@ -1,0 +1,2 @@
+# FootStats-Analyse-et-Mod-lisation-des-Donn-es-Footballistiques
+Projet visant à collecter, nettoyer et modéliser des données de football (Premier League 2024–2025) à partir de FBref. Les données sont stockées dans PostgreSQL et analysées via SQL pour obtenir des statistiques sur les joueurs et les équipes. Un dashboard interactif Streamlit permet de visualiser et d’explorer facilement les données.
