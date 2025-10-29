@@ -1,4 +1,4 @@
-team,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+Team,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee
 Liverpool,2024-08-17,12:30,Premier League,Matchweek 1,Sat,Away,W,2,0,Ipswich Town,2.6,0.5,62,"30,014",Virgil van Dijk,4-2-3-1,4-2-3-1,Tim Robinson
 Liverpool,2024-08-25,16:30,Premier League,Matchweek 2,Sun,Home,W,2,0,Brentford,2.5,0.5,62,"60,017",Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell
 Liverpool,2024-09-01,16:00,Premier League,Matchweek 3,Sun,Away,W,3,0,Manchester Utd,1.8,1.4,47,"73,738",Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor
